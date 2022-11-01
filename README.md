@@ -15,7 +15,7 @@ User는 웹으로 접속한 유저의 정보를 처리하는 클래스로  Memor
 ------------
 1. 서버를 실행하면 음식점 이름과 서버의 유지시간을 입력받음
 2. 입력을 완료하면 서버가 생성됨과 동시에 서버의 IP주소와 PORT번호를 출력함
- <img width="951" alt="캡처" src="https://user-images.githubusercontent.com/114290488/199187444-8cd8c6f7-88fe-440f-9fd0-941aa670632c.PNG">
+<img width="394" alt="시작" src="https://user-images.githubusercontent.com/77572677/129447750-82f62d8b-6a5a-480c-b954-17c9d33e8f0f.PNG">
 
 3. IP주소와 PORT번호를 웹페이지에 입력해 접속 함.
 4. 사용자에게 메뉴번호를 받음으로써 서버는 각 IP별로 사용자의 메뉴를 관리함.
