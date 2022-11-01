@@ -26,7 +26,9 @@ User는 웹으로 접속한 유저의 정보를 처리하는 클래스로  Memor
 ## 사용법
 ------------
 서버는 샘플.txt의 데이터를 바꾼다.
+
 <img width="951" alt="캡처" src="https://user-images.githubusercontent.com/114290488/199187444-8cd8c6f7-88fe-440f-9fd0-941aa670632c.PNG">
+
 위와 같이 메뉴 / 가격으로 설정한다.
 
 서버는 server클래스에 있는 메인메소드를 통해 코드를 시작함
